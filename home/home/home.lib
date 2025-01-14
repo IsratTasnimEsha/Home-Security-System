@@ -1,0 +1,137 @@
+timestamp=1736820070348
+
+[~A]
+C:/my_designs/Project_Home/home/src/breadboard.v=0*773494*775791
+C:/my_designs/Project_Home/home/src/comparator.v=0*657130*657682
+C:/my_designs/Project_Home/home/src/comparator.v_breadboard.v=0*658943*661141
+C:/my_designs/Project_Home/home/src/control.v=0*446765*447746
+C:/my_designs/Project_Home/home/src/control.v_breadboard.v=0*297874*299877
+C:/my_designs/Project_Home/home/src/control.v_breadboard.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v_rom.v_register.v_comparator.v=0*302862*306108
+C:/my_designs/Project_Home/home/src/control.v_breadboard.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v_rom.v_register.v_comparator.v_d_flip_flop.v=0*779092*783280
+C:/my_designs/Project_Home/home/src/d_flip_flop.v_comparator.v_control.v_rom.v_breadboard.v=0*708844*712016
+C:/my_designs/Project_Home/home/src/d_flip_flop.v_register.v_comparator.v=0*653646*654463
+C:/my_designs/Project_Home/home/src/register.v=0*307325*307795
+C:/my_designs/Project_Home/home/src/rom.v=0*280262*280871
+G:/Lab/CSE/Project/Project_Home/home/src/control.v_breadboard.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v_rom.v_register.v_comparator.v_d_flip_flop.v=0*786808*791017
+LastVerilogToplevel=breadboard
+ModifyID=290
+Version=74
+c:/my_designs/Project_Home/home/src/breadboard.v=0*170731*171940
+c:/my_designs/Project_Home/home/src/control.v_breadboard.v=0*44047*45634
+c:/my_designs/Project_Home/home/src/control.v_breadboard.v_half_adder.v=0*52610*54194
+c:/my_designs/Project_Home/home/src/control.v_breadboard.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v=0*69205*71509
+c:/my_designs/Project_Home/home/src/control.v_breadboard.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v_rom.v=0*104431*106789
+c:/my_designs/Project_Home/home/src/control.v_breadboard.v_half_adder.v_full_adder.v_parallel_adder.v_comb_full_adder.v_rom.v_counter.v=0*139667*142163
+c:/my_designs/Project_Home/home/src/counter.v_breadboard.v=0*145559*146778
+c:/my_designs/Project_Home/home/src/rom.v=0*115608*116121
+c:/my_designs/Project_Home/home/src/rom.v_breadboard.v=0*100809*102008
+
+[~MFT]
+0=13|0home.mgf|791017|566793
+1=22|1home.mgf|2002789|1973808
+3=44|3home.mgf|1650088|1628131
+
+[$root]
+A/$root=22|||1*1978797
+BinW64/$root=3*1632527
+SLP=3*1632642
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c9216507126e84084a97ca7d311231dd6a4e2
+
+[breadboard]
+A/breadboard=22|../src/breadboard.v|1|1*1984272
+BinW64/breadboard=3*1636299
+R=../src/breadboard.v|1
+SLP=3*1640645
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8bba35ebb1d6b345a990b9e2e604cd61e7cb43217a5ab22c7aa273b9580ec14a65d4dc6891d4a81fdcf670848a71a0bf
+
+[comb_full_adder]
+A/comb_full_adder=22|../src/comb_full_adder.v|1|1*2000468
+BinW64/comb_full_adder=3*1648612
+R=../src/comb_full_adder.v|1
+SLP=3*1649349
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bd418d82b2adc86325a95be129222796084b4d1e1563b216aee857667041e418fc65ee5c00f0fb9cb7bab4aa2fd528b8
+
+[comparator]
+A/comparator=22|../src/comparator.v|1|1*1996431
+BinW64/comparator=3*1646888
+R=../src/comparator.v|1
+SLP=3*1647299
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|380097b371b0850258ab7f532461b4d79a5f0fe3076e657a3a0f29edf58bad2f36839d79cee4d98767a8c1e720b0395b
+
+[control]
+A/control=22|../src/control.v|1|1*1979187
+BinW64/control=3*1632710
+R=../src/control.v|1
+SLP=3*1634669
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f2cabf5e9d8860133c44841e25d9d38726527262ddaa47cb266f3a3c4d9b973a3cca254c4378135de702dc506c0e3f42
+
+[control_tb]
+A/control_tb=22|../src/breadboard.v|1|1*63742
+BinW64/control_tb=3*53692
+R=../src/breadboard.v|1
+SLP=3*55878
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a0cc062d115c51bc9c172e928a89ccbbf043b90ec8b6284a8d0b6adb3dc810c85f9069d3b18d03b9b435398ffe00a7fe
+
+[counter]
+A/counter=22|../src/counter.v|1|1*387361
+BinW64/counter=3*289763
+R=../src/counter.v|1
+SLP=3*290468
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ec8a9ceecd40c97da6d5687ce01e262f26527262ddaa47cb266f3a3c4d9b973af7f148d0302890d93c2d3cb6c770ebed
+
+[d_flip_flop]
+A/d_flip_flop=22|../src/d_flip_flop.v|1|1*2002789
+BinW64/d_flip_flop=3*1649688
+R=../src/d_flip_flop.v|1
+SLP=3*1650088
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|788ba4692486877191c950f725743c105e843cccafa61fe196be74b42a019744b2350aa96b3d989196cd9baeb2ee01d7
+
+[full_adder]
+A/full_adder=22|../src/full_adder.v|1|1*1999125
+BinW64/full_adder=3*1648116
+R=../src/full_adder.v|1
+SLP=3*1648445
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b6bc4c72c6b4732d30366d04e0b9d81ca93b35da59acef6f28d70118359e933e010a6f964ee3eb13ffa060643ed546b6
+
+[half_adder]
+A/half_adder=22|../src/half_adder.v|1|1*1998220
+BinW64/half_adder=3*1647559
+R=../src/half_adder.v|1
+SLP=3*1647926
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9d478890ab412e42d6b75255d560236f41ab0ed49771ee80612b3666c997a9c28253bed24bd77c3dbcc7bc194ce18fd1
+
+[parallel_adder]
+A/parallel_adder=22|../src/parallel_adder.v|1|1*1994585
+BinW64/parallel_adder=3*1646424
+R=../src/parallel_adder.v|1
+SLP=3*1646548
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|924f68251de2b29003b847e6811f8d6a4cd34d98929353c95ff0370f4fc71b0add5f5d648c0dbccb1c2c878853817055
+
+[register]
+A/register=22|../src/register.v|1|1*1982782
+BinW64/register=3*1635926
+R=../src/register.v|1
+SLP=3*1636044
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|5fa1b53f1300c4835386baab9d0c635e1096506f0a00bc334a610cd78bf011dd52dd011d6909a1a8594f53ac2728dde9
+
+[rom]
+A/rom=22|../src/rom.v|1|1*1992620
+BinW64/rom=3*1644294
+R=../src/rom.v|1
+SLP=3*1645552
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ebfd4eb2455ce3432cfa489b4a667298a2bdde982fb513eba1742cd094e01aac
+
+[~U]
+$root=12|0*784004|
+breadboard=12|0*784874||0x10
+comb_full_adder=12|0*786336|
+comparator=12|0*785619|
+control=12|0*784282|
+control_tb=12|0*22012||0x10
+counter=12|0*145139|
+d_flip_flop=12|0*786587|
+full_adder=12|0*786106|
+half_adder=12|0*785903|
+parallel_adder=12|0*785342|
+register=12|0*784629|
+rom=12|0*785150|

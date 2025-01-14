@@ -1,0 +1,7 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+alog -O2 -sve -msg 5 -sv2k17 -work home $dsn/src/control.v $dsn/src/breadboard.v $dsn/src/half_adder.v $dsn/src/full_adder.v $dsn/src/parallel_adder.v $dsn/src/comb_full_adder.v $dsn/src/rom.v $dsn/src/register.v $dsn/src/comparator.v $dsn/src/d_flip_flop.v
+# Info: VCP2876 breadboard.v : (89, 17): Implicit net declaration, symbol rst has not been declared in module breadboard.
+# Unit top modules: breadboard.
+# Compile success 0 Errors 0 Warnings  Analysis time: 0[s].
+# done

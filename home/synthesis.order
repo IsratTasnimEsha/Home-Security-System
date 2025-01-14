@@ -1,0 +1,10 @@
+i<>.\src\control.v
+i<>.\src\breadboard.v
+i<>.\src\half_adder.v
+i<>.\src\full_adder.v
+i<>.\src\parallel_adder.v
+i<>.\src\comb_full_adder.v
+i<>.\src\rom.v
+i<>.\src\register.v
+i<>.\src\comparator.v
+i<>.\src\d_flip_flop.v

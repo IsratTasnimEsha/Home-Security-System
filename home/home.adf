@@ -1,0 +1,44 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=home
+[Library]
+home=.\home\home.lib
+[$LibMap$]
+home=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/control.v=-1
+/breadboard.v=-1
+/half_adder.v=-1
+/full_adder.v=-1
+/parallel_adder.v=-1
+/comb_full_adder.v=-1
+/rom.v=-1
+/register.v=-1
+/comparator.v=-1
+/d_flip_flop.v=-1
+[Files.Data]
+.\src\control.v=Verilog Source Code
+.\src\breadboard.v=Verilog Source Code
+.\src\half_adder.v=Verilog Source Code
+.\src\full_adder.v=Verilog Source Code
+.\src\parallel_adder.v=Verilog Source Code
+.\src\comb_full_adder.v=Verilog Source Code
+.\src\rom.v=Verilog Source Code
+.\src\register.v=Verilog Source Code
+.\src\comparator.v=Verilog Source Code
+.\src\d_flip_flop.v=Verilog Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
